@@ -2,12 +2,12 @@
 This library is a derivative version of the original and of @matthgyver.
 
 #Accepted caracters
-abcdefghijklmnopqrstuvwxyz
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-1234567890
-@#"'(){}[]-_/\=+$ù%*!§:;.,?<>|~
-éèçà
-...
+abcdefghijklmnopqrstuvwxyz  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+1234567890  
+@#"'(){}[]-_/\=+$ù%*!§:;.,?<>|~  
+éèçà  
+...  
 
 # HowTo
 * Copy the "KeyboardMacFR" folder to the "libraries" folder in your Arduino IDE installation directory.
