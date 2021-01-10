@@ -1,7 +1,7 @@
 # Arduino library FRENCH AZERTY MAC KEYBOARD  
 This library is a derivative version of the original and of @matthgyver.
 
-#Accepted caracters  
+# Accepted caracters  
 * abcdefghijklmnopqrstuvwxyz  
 * ABCDEFGHIJKLMNOPQRSTUVWXYZ  
 * 1234567890  
